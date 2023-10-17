@@ -81,6 +81,10 @@
         <name>Rich_text__c</name>
     </fields>
     <fields>
+        <label><!-- Salesforce Url --></label>
+        <name>Salesforce_Url__c</name>
+    </fields>
+    <fields>
         <label><!-- Acceptance Criteria Status --></label>
         <name>copado__Acceptance_Criteria_Status__c</name>
         <picklistValues>
