@@ -25,139 +25,179 @@
     <navType>Standard</navType>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Integration User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Integration User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>1 - ES Sales User (Sales Manager)</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>1 - ES Sales User (Sales Manager)</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Security User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Security User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Standard</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
         <type>Flexipage</type>
         <profile>Standard</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Integration User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
         <type>Flexipage</type>
-        <profile>Analytics Cloud Integration User</profile>
+        <profile>Admin</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
-        <type>Flexipage</type>
-        <profile>1 - ES Sales User (Sales Manager)</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Bug</recordType>
         <type>Flexipage</type>
-        <profile>1 - ES Sales User (Sales Manager)</profile>
+        <profile>Admin</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Security User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
-        <type>Flexipage</type>
-        <profile>Analytics Cloud Security User</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Account_Record_Page</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Bug</recordType>
         <type>Flexipage</type>
         <profile>Standard</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Account_Record_Page</content>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Bug</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
         <formFactor>Large</formFactor>
-        <pageOrSobjectType>Account</pageOrSobjectType>
-        <recordType>Account.External</recordType>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Bug</recordType>
         <type>Flexipage</type>
         <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Investigation</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Investigation</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Investigation</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Investigation</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__User_Story</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__User_Story</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__User_Story</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__User_Story</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Utility</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Utility</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Utility</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <recordType>copado__User_Story__c.copado__Utility</recordType>
+        <type>Flexipage</type>
+        <profile>Standard</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>User_Story_Record_Page4</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>copado__User_Story__c</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
     </profileActionOverrides>
     <setupExperience>all</setupExperience>
     <tabs>standard-home</tabs>

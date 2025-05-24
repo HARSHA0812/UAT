@@ -359,6 +359,26 @@
             <field>copado__Progress_Status__c</field>
             <table>copado__User_Story__c</table>
         </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Long_text_field__c</field>
+            <table>copado__User_Story__c</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Rich_text__c</field>
+            <table>copado__User_Story__c</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Externl_Status__c</field>
+            <table>copado__User_Story__c</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Salesforce_Url__c</field>
+            <table>copado__User_Story__c</table>
+        </columns>
         <masterLabel>User Stories</masterLabel>
     </sections>
     <sections>

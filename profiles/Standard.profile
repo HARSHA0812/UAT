@@ -16276,7 +16276,42 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
+        <field>copado__User_Story_Task__c.copadoconnect__Connect_log__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story_Task__c.copadoconnect__External_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story_Task__c.copadoconnect__Last_Synced_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Externl_Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Long_text_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Rich_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Salesforce_Url__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>copado__User_Story__c.copado__Acceptance_Criteria_Status__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -19214,10 +19249,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-AppointmentInvitation</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-Asset</tab>
         <visibility>DefaultOff</visibility>
     </tabVisibilities>
@@ -19543,11 +19574,11 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-ProductCatalog</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-ProductCategory</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-ProfilePlatformFeed</tab>

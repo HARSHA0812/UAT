@@ -6194,6 +6194,48 @@
         <label>Work Manager Relations</label>
     </fieldSets>
     <fields>
+        <fullName>Externl_Status__c</fullName>
+        <externalId>false</externalId>
+        <label>Externl Status</label>
+        <length>28</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Long_text_field__c</fullName>
+        <externalId>false</externalId>
+        <label>Long text field</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Rich_text__c</fullName>
+        <externalId>false</externalId>
+        <label>Rich text</label>
+        <length>32768</length>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Salesforce_Url__c</fullName>
+        <externalId>false</externalId>
+        <label>Salesforce Url</label>
+        <length>100</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>copado__Acceptance_Criteria_Status__c</fullName>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
@@ -7331,7 +7373,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
-        <label>Promote as Single Step</label>
+        <label>Promote as Single Steps</label>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
@@ -7450,6 +7492,11 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <valueSet>
             <valueSetDefinition>
                 <sorted>false</sorted>
+                <value>
+                    <fullName>Sample</fullName>
+                    <default>true</default>
+                    <label>Sample</label>
+                </value>
                 <value>
                     <fullName>Draft</fullName>
                     <default>true</default>

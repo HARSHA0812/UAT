@@ -65,6 +65,22 @@
         <name>copado__Work_Manager_Relations</name>
     </fieldSets>
     <fields>
+        <label><!-- Externl Status --></label>
+        <name>Externl_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long text field --></label>
+        <name>Long_text_field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rich text --></label>
+        <name>Rich_text__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salesforce Url --></label>
+        <name>Salesforce_Url__c</name>
+    </fields>
+    <fields>
         <label><!-- Acceptance Criteria Status --></label>
         <name>copado__Acceptance_Criteria_Status__c</name>
         <picklistValues>
