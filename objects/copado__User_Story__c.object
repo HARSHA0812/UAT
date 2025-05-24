@@ -7373,7 +7373,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
-        <label>Promote as Single Step</label>
+        <label>Promote as Single Steps</label>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
@@ -7492,6 +7492,11 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <valueSet>
             <valueSetDefinition>
                 <sorted>false</sorted>
+                <value>
+                    <fullName>Sample</fullName>
+                    <default>true</default>
+                    <label>Sample</label>
+                </value>
                 <value>
                     <fullName>Draft</fullName>
                     <default>true</default>
